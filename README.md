@@ -8,7 +8,7 @@ You can help us providing better Solutions for these challenges and Contribute t
 **MYANMAR(BURMA)**
 
 
-**Mingalar** ပါ။ ကျွန်တော့်နာမည် **မင်းဇေယျာမောင်** ပါ။ Leet Code Challenge လေးတွေ အတူတူ ဖြေရှင်းလို့ရပါတယ်ဗျ။
+**မင်္ဂလာပါ**
 
 ![image](https://github.com/user-attachments/assets/4545e277-06de-48cc-b999-0814bb8f92d6)
 
