@@ -1,4 +1,4 @@
-package TwoSums;
+package Easy_Level.TwoSums;
 
 public class Solution {
 
